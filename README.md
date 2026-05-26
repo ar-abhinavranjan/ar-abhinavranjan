@@ -1,10 +1,8 @@
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--        AR. ABHINAV RANJAN — GITHUB PROFILE README v2.0           -->
+<!--        AR. ABHINAV RANJAN — GITHUB PROFILE README v3.0           -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
-
-<!-- ═══════════════════════ ANIMATED BANNER ═══════════════════════ -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=2000&color=6366F1&center=true&vCenter=true&width=800&height=70&lines=AR.+ABHINAV+RANJAN)](https://git.io/typing-svg)
 
@@ -12,48 +10,38 @@
 
 <br/>
 
-<!-- ═══════════════════════ SOCIAL BADGES ═══════════════════════ -->
-
 <a href="https://abhinavranjan.qzz.io" target="_blank"><img src="https://img.shields.io/badge/◈_PORTFOLIO-abhinavranjan.qzz.io-6366f1?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0d0d1f" /></a>
 &nbsp;
 <a href="https://linkedin.com/in/ar-abhinavranjan/" target="_blank"><img src="https://img.shields.io/badge/◈_LINKEDIN-Connect-00e5ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1f" /></a>
 &nbsp;
 <a href="https://instagram.com/ar.abhinavranjan" target="_blank"><img src="https://img.shields.io/badge/◈_INSTAGRAM-Follow-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d1f" /></a>
 &nbsp;
-<a href="https://facebook.com/ar.abhinavranjan/" target="_blank"><img src="https://img.shields.io/badge/◈_FACEBOOK-ar.abhinavranjan-6366f1?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d1f" /></a>
+<a href="https://facebook.com/ar.abhinavranjan/" target="_blank"><img src="https://img.shields.io/badge/◈_FACEBOOK-Connect-6366f1?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d1f" /></a>
 &nbsp;
 <a href="https://github.com/ar-abhinavranjan" target="_blank"><img src="https://img.shields.io/badge/◈_GITHUB-ar--abhinavranjan-ffffff?style=for-the-badge&logo=github&logoColor=0d0d1f&labelColor=6366f1" /></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ar-abhinavranjan&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS&labelColor=0d0d1f" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/ar-abhinavranjan?style=for-the-badge&color=00e5ff&label=FOLLOWERS&labelColor=0d0d1f&logo=github&logoColor=white" />
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      ◈  IDENTITY SECTION                         -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 <h2>⬡ &nbsp; IDENTITY.exe &nbsp; ⬡</h2>
 </div>
 
-```yaml
-┌──────────────────────────────────────────────────────────────────────┐
-│  OPERATOR     :  AR. Abhinav Ranjan                                  │
-│  HANDLE       :  ar.abhinavranjan                                    │
-│  DESIGNATION  :  Founder & CEO — Luminary Technicals                │
-│  AUTHORITY    :  Guinness World Record Holder & Tech Innovator      │
-│  DISTINCTION  :  Youngest Hacking Teacher — India & the World       │
-│  BASE         :  Muzaffarpur, Bihar, India                          │
-│  DIRECTIVE    :  Architecting the future of digital sovereignty     │
-│  DOMAIN       :  Cybersecurity · AI · Law · Infrastructure · Web   │
-│  NODE_STATUS  :  🟢 ONLINE — Building in stealth mode              │
-└──────────────────────────────────────────────────────────────────────┘
+```
+  OPERATOR     :  AR. Abhinav Ranjan
+  HANDLE       :  ar.abhinavranjan
+  DESIGNATION  :  Founder & CEO — Luminary Technicals
+  AUTHORITY    :  Guinness World Record Holder & Tech Innovator
+  DISTINCTION  :  Youngest Hacking Teacher — India & the World
+  BASE         :  Muzaffarpur, Bihar, India
+  DIRECTIVE    :  Architecting the future of digital sovereignty
+  DOMAIN       :  Cybersecurity · AI · Law · Infrastructure · Web
+  NODE_STATUS  :  [ONLINE] Building in stealth mode
 ```
 
 <br/>
@@ -88,10 +76,6 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                  ◈  LUMINARY ECOSYSTEM SECTION                   -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 <h2>⬡ &nbsp; THE LUMINARY ECOSYSTEM &nbsp; ⬡</h2>
 <sub><i>A sovereign digital empire — engineered division by division</i></sub>
@@ -99,37 +83,25 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
 
 <table>
 <tr>
-  <td align="center" width="175px">
-    <b>◈ LUMINARY SERVERS</b><br/>
-    <img src="https://img.shields.io/badge/DIVISION-ACTIVE-6366f1?style=flat-square&labelColor=0d0d1f" /><br/>
+  <td align="center" width="200px">
+    <b>◈ LUMINARY SERVERS</b><br/><br/>
+    <img src="https://img.shields.io/badge/DIVISION-ACTIVE-6366f1?style=flat-square&labelColor=0d0d1f" /><br/><br/>
     <sub>Infrastructure & Hosting<br/>Architecture</sub>
   </td>
-  <td align="center" width="175px">
-    <b>◈ LUMINARY DEVELOPERS</b><br/>
-    <img src="https://img.shields.io/badge/DIVISION-ACTIVE-00e5ff?style=flat-square&labelColor=0d0d1f" /><br/>
+  <td align="center" width="200px">
+    <b>◈ LUMINARY DEVELOPERS</b><br/><br/>
+    <img src="https://img.shields.io/badge/DIVISION-ACTIVE-00e5ff?style=flat-square&labelColor=0d0d1f" /><br/><br/>
     <sub>Dev Community &<br/>Engineering Hub</sub>
   </td>
-  <td align="center" width="175px">
-    <b>◈ LUMINARY CARES</b><br/>
-    <img src="https://img.shields.io/badge/DIVISION-ACTIVE-8b5cf6?style=flat-square&labelColor=0d0d1f" /><br/>
-    <sub>Community Support &<br/>Welfare Division</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="175px">
-    <b>◈ LUMINARY KITS</b><br/>
-    <img src="https://img.shields.io/badge/DIVISION-COLLAB-6366f1?style=flat-square&labelColor=0d0d1f" /><br/>
+  <td align="center" width="200px">
+    <b>◈ LUMINARY KITS</b><br/><br/>
+    <img src="https://img.shields.io/badge/DIVISION-COLLAB-8b5cf6?style=flat-square&labelColor=0d0d1f" /><br/><br/>
     <sub>Collaboration &<br/>Toolkits [Partner]</sub>
   </td>
-  <td align="center" width="175px">
-    <b>◈ LUMINARY WEBS</b><br/>
-    <img src="https://img.shields.io/badge/DIVISION-ACTIVE-00e5ff?style=flat-square&labelColor=0d0d1f" /><br/>
-    <sub>Web Design &<br/>Digital Presence</sub>
-  </td>
-  <td align="center" width="175px">
-    <b>◈ LUMINARY WISHES</b><br/>
-    <img src="https://img.shields.io/badge/DIVISION-ACTIVE-8b5cf6?style=flat-square&labelColor=0d0d1f" /><br/>
-    <sub>Premium Digital<br/>Gifting Platform</sub>
+  <td align="center" width="200px">
+    <b>◈ LUMINARY CARES</b><br/><br/>
+    <img src="https://img.shields.io/badge/DIVISION-ACTIVE-6366f1?style=flat-square&labelColor=0d0d1f" /><br/><br/>
+    <sub>Community Support &<br/>Welfare Division</sub>
   </td>
 </tr>
 </table>
@@ -138,40 +110,26 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                   ◈  CYBERSECURITY SOC SECTION                   -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 <h2>⬡ &nbsp; SECURITY OPERATIONS CENTER &nbsp; ⬡</h2>
 </div>
 
 ```
-╔════════════════════════════════════════════════════════════════════════╗
-║                ⬡  CYBERSECURITY DOMAIN MAP  ⬡                        ║
-╠════════════════════════════════════════════════════════════════════════╣
-║                                                                        ║
-║  [01] OFFENSIVE SECURITY    →  Advanced Penetration Testing           ║
-║  [02] REVERSE ENGINEERING   →  Malware R&D · Binary Analysis         ║
-║  [03] THREAT INTELLIGENCE   →  Zero-Day Research · OSINT             ║
-║  [04] WEB SECURITY          →  OWASP Top 10 · XSS · SQLi · CSRF     ║
-║  [05] DIGITAL FORENSICS     →  Incident Response · Forensics        ║
-║  [06] CRYPTOGRAPHY          →  Quantum-Resistant Crypto · PKI       ║
-║  [07] AI SECURITY           →  Adversarial ML · LLM Threat Models   ║
-║  [08] CYBER LAW             →  Jurisprudence · AI Governance        ║
-║  [09] SMART CONTRACTS       →  Blockchain Audit · Crypto Security   ║
-║  [10] DEVSECOPS             →  Security-First SDLC · Hardened CI/CD ║
-║                                                                        ║
-╠════════════════════════════════════════════════════════════════════════╣
-║  STATUS: 🟢 MONITORING  ║  FRAMEWORK: SecSDLC  ║  MODE: PREDICTIVE  ║
-╚════════════════════════════════════════════════════════════════════════╝
+  [01] OFFENSIVE SECURITY   ->  Advanced Penetration Testing
+  [02] REVERSE ENGINEERING  ->  Malware R&D · Binary Analysis
+  [03] THREAT INTELLIGENCE  ->  Zero-Day Research · OSINT
+  [04] WEB SECURITY         ->  OWASP Top 10 · XSS · SQLi · CSRF
+  [05] DIGITAL FORENSICS    ->  Incident Response · Forensics
+  [06] CRYPTOGRAPHY         ->  Quantum-Resistant Crypto · PKI
+  [07] AI SECURITY          ->  Adversarial ML · LLM Threat Models
+  [08] CYBER LAW            ->  Jurisprudence · AI Governance
+  [09] SMART CONTRACTS      ->  Blockchain Audit · Crypto Security
+  [10] DEVSECOPS            ->  Security-First SDLC · Hardened CI/CD
+
+  STATUS: [ONLINE]  |  FRAMEWORK: SecSDLC  |  MODE: PREDICTIVE
 ```
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                    ◈  TECH STACK SECTION                         -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 <h2>⬡ &nbsp; TECH STACK &nbsp; ⬡</h2>
@@ -223,7 +181,6 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d1f?style=for-the-badge&logo=githubactions&logoColor=00e5ff)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0d0d1f?style=for-the-badge&logo=cloudflare&logoColor=8b5cf6)
 ![AWS](https://img.shields.io/badge/AWS-0d0d1f?style=for-the-badge&logo=amazonwebservices&logoColor=6366f1)
-![VPS](https://img.shields.io/badge/VPS_Architecture-0d0d1f?style=for-the-badge&logo=server&logoColor=00e5ff)
 
 </div>
 </details>
@@ -240,40 +197,11 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d1f?style=for-the-badge&logo=tensorflow&logoColor=00e5ff)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-0d0d1f?style=for-the-badge&logo=openai&logoColor=8b5cf6)
 ![PWA](https://img.shields.io/badge/PWA-0d0d1f?style=for-the-badge&logo=pwa&logoColor=6366f1)
-![REST API](https://img.shields.io/badge/REST_APIs-0d0d1f?style=for-the-badge&logo=fastapi&logoColor=00e5ff)
 
 </div>
 </details>
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                   ◈  GITHUB ANALYTICS SECTION                    -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<h2>⬡ &nbsp; GITHUB ANALYTICS &nbsp; ⬡</h2>
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ar-abhinavranjan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1f&title_color=6366f1&icon_color=00e5ff&text_color=ffffff&ring_color=8b5cf6" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-abhinavranjan&layout=compact&hide_border=true&bg_color=0d0d1f&title_color=6366f1&text_color=ffffff&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=ar-abhinavranjan&hide_border=true&background=0d0d1f&ring=6366f1&fire=00e5ff&currStreakLabel=8b5cf6&sideLabels=ffffff&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff" width="60%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ar-abhinavranjan&bg_color=0d0d1f&color=00e5ff&line=6366f1&point=8b5cf6&area=true&hide_border=true&custom_title=◈+Contribution+Lattice" width="95%" />
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      ◈  SYSTEM STATUS                            -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 <h2>⬡ &nbsp; SYSTEM STATUS &nbsp; ⬡</h2>
@@ -286,11 +214,11 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
 **`> status --realtime`**
 
 ```
-◈ BUILDING     →  Luminary Technicals   [ACTIVE]
-◈ RESEARCHING  →  Zero-Day & Threat Intel [ONGOING]
-◈ DEVELOPING   →  AI-Sec Integration    [STEALTH]
-◈ TEACHING     →  Ethical Hacking       [LIVE]
-◈ OPEN FOR     →  Collabs & Projects    [OPEN]
+  BUILDING     ->  Luminary Technicals      [ACTIVE]
+  RESEARCHING  ->  Zero-Day & Threat Intel  [ONGOING]
+  DEVELOPING   ->  AI-Sec Integration       [STEALTH]
+  TEACHING     ->  Ethical Hacking          [LIVE]
+  OPEN FOR     ->  Collabs & Projects       [OPEN]
 ```
 
 </td>
@@ -299,11 +227,11 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
 **`> skill --matrix`**
 
 ```
-◈ CYBERSECURITY      █████████░  92%
-◈ INFRASTRUCTURE     ████████░░  80%
-◈ FULL-STACK DEV     █████████░  88%
-◈ AI INTEGRATION     ███████░░░  70%
-◈ CYBER LAW          ██████░░░░  60%
+  CYBERSECURITY      +++++++++.  92%
+  INFRASTRUCTURE     ++++++++..  80%
+  FULL-STACK DEV     +++++++++.  88%
+  AI INTEGRATION     +++++++...  70%
+  CYBER LAW          ++++++....  60%
 ```
 
 </td>
@@ -314,30 +242,22 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                     ◈  VISION STATEMENT                          -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 <h2>⬡ &nbsp; VISION PROTOCOL &nbsp; ⬡</h2>
 <br/>
 
 ```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   ❝  The internet was built on trust. The future will be built on   │
-│       verified trust — cryptographically enforced, architecturally  │
-│       sound, and humanly designed.                                  │
-│                                                                      │
-│       Education, curiosity, and ethical responsibility are the      │
-│       foundation of technological progress.                         │
-│                                                                      │
-│       By combining legal knowledge with cybersecurity expertise,    │
-│       we build a world where innovation and protection coexist.  ❞  │
-│                                                                      │
-│                                   — AR. Abhinav Ranjan  ◈           │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+  "The internet was built on trust. The future will be built on
+   verified trust — cryptographically enforced, architecturally
+   sound, and humanly designed.
+
+   Education, curiosity, and ethical responsibility are the
+   foundation of technological progress.
+
+   By combining legal knowledge with cybersecurity expertise,
+   we build a world where innovation and protection coexist."
+
+                                  — AR. Abhinav Ranjan
 ```
 
 <br/>
@@ -352,15 +272,11 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                     ◈  CONNECT SECTION                           -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 <h2>⬡ &nbsp; ESTABLISH CONNECTION &nbsp; ⬡</h2>
 <br/>
 
-<a href="https://abhinavranjan.qzz.io"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Headquarters-6366f1?style=for-the-badge&labelColor=0a0a1a" /></a>
+<a href="https://abhinavranjan.qzz.io"><img src="https://img.shields.io/badge/PORTFOLIO-Visit_Headquarters-6366f1?style=for-the-badge&labelColor=0a0a1a" /></a>
 
 <br/><br/>
 
@@ -374,26 +290,18 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                        ◈  FOOTER SIGNATURE                       -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   ❝  Every system has a vulnerability.                               │
-│       The most dangerous one is the assumption it doesn't.  ❞        │
-│                                                                      │
-│                                    — Security Doctrine  ◈           │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+  "Every system has a vulnerability.
+   The most dangerous one is the assumption it doesn't."
+
+                             — Security Doctrine
 ```
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=3000&color=8B5CF6&center=true&vCenter=true&width=700&lines=⬡+AR.+Abhinav+Ranjan+•+Luminary+Technicals+•+Muzaffarpur%2C+Bihar%2C+India+⬡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&pause=3000&color=8B5CF6&center=true&vCenter=true&width=700&lines=⬡+AR.+Abhinav+Ranjan+•+Luminary+Technicals+•+Muzaffarpur%2C+Bihar%2C+India+⬡)](https://git.io/typing-svg)
 
 <br/>
 
@@ -401,7 +309,7 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
 &nbsp;
 <img src="https://img.shields.io/badge/©_AR._Abhinav_Ranjan-Luminary_Technicals-8b5cf6?style=flat-square&labelColor=0a0a1a" />
 &nbsp;
-<img src="https://img.shields.io/badge/Build_Status-ONLINE_⬡-00e5ff?style=flat-square&labelColor=0a0a1a" />
+<img src="https://img.shields.io/badge/Status-ONLINE-00e5ff?style=flat-square&labelColor=0a0a1a" />
 
 <br/><br/>
 <sub><i>⬡ &nbsp; If my work resonates with your mission — let's architect something extraordinary together &nbsp; ⬡</i></sub>
@@ -409,5 +317,5 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
 </div>
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--       END — AR. ABHINAV RANJAN — LUMINARY TECHNICALS              -->
+<!--       END — AR. ABHINAV RANJAN — LUMINARY TECHNICALS v3.0        -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
