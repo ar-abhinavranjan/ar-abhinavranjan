@@ -1,149 +1,134 @@
-<!-- ████████████████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░  AR. ABHINAV RANJAN — GITHUB PROFILE README  ░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████████████████ -->
+<!-- ██████████████████████████████████████████████████████████████████ -->
+<!--        AR. ABHINAV RANJAN — GITHUB PROFILE README v2.0           -->
+<!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<!-- ════════════════════════ ANIMATED BANNER ════════════════════════ -->
+<!-- ═══════════════════════ ANIMATED BANNER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:6366f1,60:00e5ff,100:8b5cf6&height=200&section=header&text=AR.%20ABHINAV%20RANJAN&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Founder%20%26%20CEO%20%7C%20Luminary%20Technicals&descAlignY=58&descSize=16&descColor=00e5ff" width="100%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&pause=2000&color=6366F1&center=true&vCenter=true&width=800&height=70&lines=AR.+ABHINAV+RANJAN)](https://git.io/typing-svg)
 
-<!-- ════════════════════════ TYPING ANIMATION ════════════════════════ -->
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=⬡+Architecting+Digital+Sovereignty;⬡+Infrastructure+•+Cybersecurity+•+Innovation;⬡+Building+Secure+Digital+Ecosystems;⬡+Security+Meets+Innovation;⬡+Founder+of+Luminary+Technicals)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=40&lines=⬡+Founder+%26+CEO+%7C+Luminary+Technicals;⬡+Youngest+Hacking+Teacher+in+India+%26+the+World;⬡+Guinness+World+Record+Holder+%7C+Tech+Innovator;⬡+Cybersecurity+Researcher+%7C+Ethical+Hacker;⬡+Architecting+the+Future+of+Digital+Sovereignty)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ════════════════════════ SOCIAL BADGES ════════════════════════ -->
+<!-- ═══════════════════════ SOCIAL BADGES ═══════════════════════ -->
 
-<p>
-  <a href="https://abhinavranjan.qzz.io" target="_blank">
-    <img src="https://img.shields.io/badge/◈_PORTFOLIO-abhinavranjan.qzz.io-6366f1?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0d0d1f" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/ar-abhinavranjan/" target="_blank">
-    <img src="https://img.shields.io/badge/◈_LINKEDIN-Connect-00e5ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1f" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/ar.abhinavranjan" target="_blank">
-    <img src="https://img.shields.io/badge/◈_INSTAGRAM-Follow-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d1f" />
-  </a>
-  &nbsp;
-  <a href="https://facebook.com/ar.abhinavranjan/" target="_blank">
-    <img src="https://img.shields.io/badge/◈_FACEBOOK-Connect-6366f1?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d1f" />
-  </a>
-</p>
+<a href="https://abhinavranjan.qzz.io" target="_blank"><img src="https://img.shields.io/badge/◈_PORTFOLIO-abhinavranjan.qzz.io-6366f1?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0d0d1f" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/ar-abhinavranjan/" target="_blank"><img src="https://img.shields.io/badge/◈_LINKEDIN-Connect-00e5ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1f" /></a>
+&nbsp;
+<a href="https://instagram.com/ar.abhinavranjan" target="_blank"><img src="https://img.shields.io/badge/◈_INSTAGRAM-Follow-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d1f" /></a>
+&nbsp;
+<a href="https://facebook.com/ar.abhinavranjan/" target="_blank"><img src="https://img.shields.io/badge/◈_FACEBOOK-ar.abhinavranjan-6366f1?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d1f" /></a>
+&nbsp;
+<a href="https://github.com/ar-abhinavranjan" target="_blank"><img src="https://img.shields.io/badge/◈_GITHUB-ar--abhinavranjan-ffffff?style=for-the-badge&logo=github&logoColor=0d0d1f&labelColor=6366f1" /></a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ar-abhinavranjan&style=for-the-badge&color=6366f1&label=SIGNAL+HITS&labelColor=0d0d1f" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/ar-abhinavranjan?style=for-the-badge&color=00e5ff&label=NETWORK+NODES&labelColor=0d0d1f&logo=github&logoColor=white" />
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ar-abhinavranjan&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS&labelColor=0d0d1f" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/ar-abhinavranjan?style=for-the-badge&color=00e5ff&label=FOLLOWERS&labelColor=0d0d1f&logo=github&logoColor=white" />
 
 </div>
 
-<br/>
+---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                        ◈ ABOUT ME SECTION                          -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,100:0d0d1f&height=3&section=header" width="100%"/>
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                      ◈  IDENTITY SECTION                         -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" width="28px" />
-&nbsp;<span style="background: linear-gradient(90deg, #6366f1, #00e5ff); -webkit-background-clip: text;">IDENTITY.exe</span>
-</h2>
+<h2>⬡ &nbsp; IDENTITY.exe &nbsp; ⬡</h2>
 </div>
 
 ```yaml
-┌─────────────────────────────────────────────────────────────────┐
-│  OPERATOR    : AR. Abhinav Ranjan                               │
-│  DESIGNATION : Founder & CEO — Luminary Technicals             │
-│  CLEARANCE   : Full-Stack · Security · Infrastructure          │
-│  DIRECTIVE   : Architecting the future of digital sovereignty  │
-│  NODE_STATUS : 🟢 ONLINE — Building in stealth mode           │
-│  SIGNAL      : Cybersecurity · AI · Open Source · Web Tech    │
-│  FREQUENCY   : Python · JavaScript · Linux · Networking        │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│  OPERATOR     :  AR. Abhinav Ranjan                                  │
+│  HANDLE       :  ar.abhinavranjan                                    │
+│  DESIGNATION  :  Founder & CEO — Luminary Technicals                │
+│  AUTHORITY    :  Guinness World Record Holder & Tech Innovator      │
+│  DISTINCTION  :  Youngest Hacking Teacher — India & the World       │
+│  BASE         :  Muzaffarpur, Bihar, India                          │
+│  DIRECTIVE    :  Architecting the future of digital sovereignty     │
+│  DOMAIN       :  Cybersecurity · AI · Law · Infrastructure · Web   │
+│  NODE_STATUS  :  🟢 ONLINE — Building in stealth mode              │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-<div align="center">
+<br/>
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **`> whoami`**
 
-I'm a **Cybersecurity Researcher**, **Infrastructure Architect**, and **Full-Stack Developer** operating at the intersection of security and innovation.
+Cybersecurity researcher, infrastructure architect, and educator operating at the intersection of **security**, **innovation**, and **law**. Started exploring ethical hacking at **age 13** — now recognized globally as a tech authority and world record holder.
 
-I build systems that don't just work — they *endure*. Every line of code is a brick in a fortress designed for the next generation of the internet.
+I don't just build systems — I build systems that **endure**, **defend**, and **educate** the next generation.
 
 </td>
 <td width="50%" valign="top">
 
-**`> cat focus.txt`**
+**`> cat mission.txt`**
 
-- 🛡️ Ethical Hacking & Penetration Testing
-- 🔐 Network Security & Cryptography
-- 🏗️ Infrastructure Design & DevOps
-- 🤖 AI/ML Security Integration
-- 🌐 Web Technologies & Open Source
-- ☁️ Cloud-Native Architecture
+- `[01]` Ethical Hacking & Security Education
+- `[02]` Penetration Testing & Threat Research
+- `[03]` Digital Infrastructure & DevSecOps
+- `[04]` AI Governance & Ethical AI Security
+- `[05]` Cyber Law & Digital Jurisprudence
+- `[06]` Open Source & Community Innovation
 
 </td>
 </tr>
 </table>
-
 </div>
 
-<br/>
+---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                   ◈ LUMINARY ECOSYSTEM SECTION                     -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                  ◈  LUMINARY ECOSYSTEM SECTION                   -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366f1,100:8b5cf6&height=2&section=header" width="100%"/>
-
-<h2>
-⬡&nbsp; THE LUMINARY ECOSYSTEM &nbsp;⬡
-</h2>
-
+<h2>⬡ &nbsp; THE LUMINARY ECOSYSTEM &nbsp; ⬡</h2>
 <sub><i>A sovereign digital empire — engineered division by division</i></sub>
-
 <br/><br/>
 
 <table>
 <tr>
-  <td align="center" width="160px">
-    <img src="https://img.shields.io/badge/◈-LUMINARY_SERVERS-6366f1?style=for-the-badge&labelColor=0a0a1a" /><br/>
+  <td align="center" width="175px">
+    <b>◈ LUMINARY SERVERS</b><br/>
+    <img src="https://img.shields.io/badge/DIVISION-ACTIVE-6366f1?style=flat-square&labelColor=0d0d1f" /><br/>
     <sub>Infrastructure & Hosting<br/>Architecture</sub>
   </td>
-  <td align="center" width="160px">
-    <img src="https://img.shields.io/badge/◈-LUMINARY_DEVELOPERS-00e5ff?style=for-the-badge&labelColor=0a0a1a" /><br/>
+  <td align="center" width="175px">
+    <b>◈ LUMINARY DEVELOPERS</b><br/>
+    <img src="https://img.shields.io/badge/DIVISION-ACTIVE-00e5ff?style=flat-square&labelColor=0d0d1f" /><br/>
     <sub>Dev Community &<br/>Engineering Hub</sub>
   </td>
-  <td align="center" width="160px">
-    <img src="https://img.shields.io/badge/◈-LUMINARY_CARES-8b5cf6?style=for-the-badge&labelColor=0a0a1a" /><br/>
-    <sub>Support & Community<br/>Welfare Division</sub>
+  <td align="center" width="175px">
+    <b>◈ LUMINARY CARES</b><br/>
+    <img src="https://img.shields.io/badge/DIVISION-ACTIVE-8b5cf6?style=flat-square&labelColor=0d0d1f" /><br/>
+    <sub>Community Support &<br/>Welfare Division</sub>
   </td>
 </tr>
 <tr>
-  <td align="center" width="160px">
-    <img src="https://img.shields.io/badge/◈-LUMINARY_KITS-6366f1?style=for-the-badge&labelColor=0a0a1a" /><br/>
+  <td align="center" width="175px">
+    <b>◈ LUMINARY KITS</b><br/>
+    <img src="https://img.shields.io/badge/DIVISION-COLLAB-6366f1?style=flat-square&labelColor=0d0d1f" /><br/>
     <sub>Collaboration &<br/>Toolkits [Partner]</sub>
   </td>
-  <td align="center" width="160px">
-    <img src="https://img.shields.io/badge/◈-LUMINARY_WEBS-00e5ff?style=for-the-badge&labelColor=0a0a1a" /><br/>
+  <td align="center" width="175px">
+    <b>◈ LUMINARY WEBS</b><br/>
+    <img src="https://img.shields.io/badge/DIVISION-ACTIVE-00e5ff?style=flat-square&labelColor=0d0d1f" /><br/>
     <sub>Web Design &<br/>Digital Presence</sub>
   </td>
-  <td align="center" width="160px">
-    <img src="https://img.shields.io/badge/◈-LUMINARY_WISHES-8b5cf6?style=for-the-badge&labelColor=0a0a1a" /><br/>
+  <td align="center" width="175px">
+    <b>◈ LUMINARY WISHES</b><br/>
+    <img src="https://img.shields.io/badge/DIVISION-ACTIVE-8b5cf6?style=flat-square&labelColor=0d0d1f" /><br/>
     <sub>Premium Digital<br/>Gifting Platform</sub>
   </td>
 </tr>
@@ -151,16 +136,45 @@ I build systems that don't just work — they *endure*. Every line of code is a 
 
 </div>
 
-<br/>
+---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                    ◈ SKILLS & TECHNOLOGIES                          -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                   ◈  CYBERSECURITY SOC SECTION                   -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00e5ff,100:6366f1&height=2&section=header" width="100%"/>
+<h2>⬡ &nbsp; SECURITY OPERATIONS CENTER &nbsp; ⬡</h2>
+</div>
 
-<h2>⬡&nbsp; TECH STACK &nbsp;⬡</h2>
+```
+╔════════════════════════════════════════════════════════════════════════╗
+║                ⬡  CYBERSECURITY DOMAIN MAP  ⬡                        ║
+╠════════════════════════════════════════════════════════════════════════╣
+║                                                                        ║
+║  [01] OFFENSIVE SECURITY    →  Advanced Penetration Testing           ║
+║  [02] REVERSE ENGINEERING   →  Malware R&D · Binary Analysis         ║
+║  [03] THREAT INTELLIGENCE   →  Zero-Day Research · OSINT             ║
+║  [04] WEB SECURITY          →  OWASP Top 10 · XSS · SQLi · CSRF     ║
+║  [05] DIGITAL FORENSICS     →  Incident Response · Forensics        ║
+║  [06] CRYPTOGRAPHY          →  Quantum-Resistant Crypto · PKI       ║
+║  [07] AI SECURITY           →  Adversarial ML · LLM Threat Models   ║
+║  [08] CYBER LAW             →  Jurisprudence · AI Governance        ║
+║  [09] SMART CONTRACTS       →  Blockchain Audit · Crypto Security   ║
+║  [10] DEVSECOPS             →  Security-First SDLC · Hardened CI/CD ║
+║                                                                        ║
+╠════════════════════════════════════════════════════════════════════════╣
+║  STATUS: 🟢 MONITORING  ║  FRAMEWORK: SecSDLC  ║  MODE: PREDICTIVE  ║
+╚════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    ◈  TECH STACK SECTION                         -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<h2>⬡ &nbsp; TECH STACK &nbsp; ⬡</h2>
 </div>
 
 <details open>
@@ -231,232 +245,169 @@ I build systems that don't just work — they *endure*. Every line of code is a 
 </div>
 </details>
 
-<br/>
+---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                   ◈ CYBERSECURITY FOCUS SECTION                    -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8b5cf6,100:00e5ff&height=2&section=header" width="100%"/>
-
-<h2>⬡&nbsp; SECURITY OPERATIONS CENTER &nbsp;⬡</h2>
-</div>
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║              ⬡  CYBERSECURITY DOMAIN MAP  ⬡                        ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  [01] OFFENSIVE SECURITY    →  Penetration Testing, Red Teaming     ║
-║  [02] NETWORK DEFENSE       →  Firewall Design, IDS/IPS, SIEM       ║
-║  [03] WEB SECURITY          →  OWASP Top 10, XSS, SQLi, CSRF       ║
-║  [04] MALWARE ANALYSIS      →  Reverse Engineering, Sandboxing      ║
-║  [05] CRYPTOGRAPHY          →  Encryption, PKI, Zero-Trust          ║
-║  [06] OSINT                 →  Intelligence Gathering, Recon        ║
-║  [07] SECURE DEV            →  DevSecOps, Secure SDLC               ║
-║  [08] INCIDENT RESPONSE     →  Forensics, Threat Hunting            ║
-║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  STATUS: 🟢 MONITORING  ║  THREAT_LEVEL: ██████░░░░  ELEVATED      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                    ◈ GITHUB ANALYTICS SECTION                      -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                   ◈  GITHUB ANALYTICS SECTION                    -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366f1,100:8b5cf6&height=2&section=header" width="100%"/>
-
-<h2>⬡&nbsp; GITHUB ANALYTICS &nbsp;⬡</h2>
-
+<h2>⬡ &nbsp; GITHUB ANALYTICS &nbsp; ⬡</h2>
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ar-abhinavranjan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1f&title_color=6366f1&icon_color=00e5ff&text_color=ffffff&ring_color=8b5cf6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ar-abhinavranjan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1f&title_color=6366f1&icon_color=00e5ff&text_color=ffffff&ring_color=8b5cf6" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-abhinavranjan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=6366f1&text_color=ffffff&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-abhinavranjan&layout=compact&hide_border=true&bg_color=0d0d1f&title_color=6366f1&text_color=ffffff&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=ar-abhinavranjan&theme=tokyonight&hide_border=true&background=0d0d1f&ring=6366f1&fire=00e5ff&currStreakLabel=8b5cf6&sideLabels=ffffff&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=ar-abhinavranjan&hide_border=true&background=0d0d1f&ring=6366f1&fire=00e5ff&currStreakLabel=8b5cf6&sideLabels=ffffff&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff" width="60%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ar-abhinavranjan&bg_color=0d0d1f&color=00e5ff&line=6366f1&point=8b5cf6&area=true&area_color=6366f120&hide_border=true&title_color=ffffff&custom_title=◈+Contribution+Lattice" width="95%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ar-abhinavranjan&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4&title_color=6366f1" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ar-abhinavranjan&bg_color=0d0d1f&color=00e5ff&line=6366f1&point=8b5cf6&area=true&hide_border=true&custom_title=◈+Contribution+Lattice" width="95%" />
 
 </div>
 
-<br/>
+---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                    ◈ CURRENT STATUS / METRICS                      -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                      ◈  SYSTEM STATUS                            -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00e5ff,100:6366f1&height=2&section=header" width="100%"/>
-
-<h2>⬡&nbsp; SYSTEM STATUS &nbsp;⬡</h2>
-
+<h2>⬡ &nbsp; SYSTEM STATUS &nbsp; ⬡</h2>
 <br/>
 
 <table>
 <tr>
-<td align="center">
+<td width="50%" align="center" valign="top">
 
 **`> status --realtime`**
 
 ```
-◈ BUILDING    →  Luminary Technicals  [ACTIVE]
-◈ RESEARCHING →  Advanced Pen Testing [ONGOING]
-◈ DEVELOPING  →  AI-Sec Integration   [STEALTH]
-◈ OPEN FOR    →  Collabs & Projects   [OPEN]
+◈ BUILDING     →  Luminary Technicals   [ACTIVE]
+◈ RESEARCHING  →  Zero-Day & Threat Intel [ONGOING]
+◈ DEVELOPING   →  AI-Sec Integration    [STEALTH]
+◈ TEACHING     →  Ethical Hacking       [LIVE]
+◈ OPEN FOR     →  Collabs & Projects    [OPEN]
 ```
 
 </td>
-<td align="center">
+<td width="50%" align="center" valign="top">
 
-**`> uptime --career`**
+**`> skill --matrix`**
 
 ```
-◈ SECURITY RESEARCH    ████████░░  78%
-◈ INFRASTRUCTURE       ███████░░░  72%
-◈ FULL-STACK DEV       █████████░  88%
-◈ AI INTEGRATION       ██████░░░░  60%
-◈ OPEN SOURCE          ████░░░░░░  42%
+◈ CYBERSECURITY      █████████░  92%
+◈ INFRASTRUCTURE     ████████░░  80%
+◈ FULL-STACK DEV     █████████░  88%
+◈ AI INTEGRATION     ███████░░░  70%
+◈ CYBER LAW          ██████░░░░  60%
 ```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                     ◈ VISION STATEMENT                             -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8b5cf6,100:6366f1&height=2&section=header" width="100%"/>
-
-<h2>⬡&nbsp; VISION PROTOCOL &nbsp;⬡</h2>
-
-<br/>
-
-<table>
-<tr>
-<td align="center">
-
-> *"The internet was built on trust. The future will be built on*
-> *verified trust — cryptographically enforced, architecturally sound,*
-> *and humanly designed. That is the world Luminary is building."*
->
-> — **AR. Abhinav Ranjan**
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<img src="https://img.shields.io/badge/◈_MISSION-Building_Secure_Digital_Ecosystems-6366f1?style=for-the-badge&labelColor=0a0a1a&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/◈_PHILOSOPHY-Security_Meets_Innovation-00e5ff?style=for-the-badge&labelColor=0a0a1a&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/◈_GOAL-Digital_Sovereignty-8b5cf6?style=for-the-badge&labelColor=0a0a1a&logoColor=white" />
-
 </div>
 
-<br/>
+---
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                      ◈ CONNECT / SOCIAL                            -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                     ◈  VISION STATEMENT                          -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366f1,100:00e5ff&height=2&section=header" width="100%"/>
+<h2>⬡ &nbsp; VISION PROTOCOL &nbsp; ⬡</h2>
+<br/>
 
-<h2>⬡&nbsp; ESTABLISH CONNECTION &nbsp;⬡</h2>
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   ❝  The internet was built on trust. The future will be built on   │
+│       verified trust — cryptographically enforced, architecturally  │
+│       sound, and humanly designed.                                  │
+│                                                                      │
+│       Education, curiosity, and ethical responsibility are the      │
+│       foundation of technological progress.                         │
+│                                                                      │
+│       By combining legal knowledge with cybersecurity expertise,    │
+│       we build a world where innovation and protection coexist.  ❞  │
+│                                                                      │
+│                                   — AR. Abhinav Ranjan  ◈           │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
-<a href="https://abhinavranjan.qzz.io" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Headquarters-6366f1?style=for-the-badge&labelColor=0a0a1a" />
-</a>
-<br/><br/>
-<a href="https://linkedin.com/in/ar-abhinavranjan/" target="_blank">
-  <img src="https://img.shields.io/badge/◈_LINKEDIN-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a1a" />
-</a>
+![MISSION](https://img.shields.io/badge/◈_MISSION-Building_Secure_Digital_Ecosystems-6366f1?style=for-the-badge&labelColor=0a0a1a)
 &nbsp;
-<a href="https://instagram.com/ar.abhinavranjan" target="_blank">
-  <img src="https://img.shields.io/badge/◈_INSTAGRAM-ar.abhinavranjan-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a1a" />
-</a>
+![PHILOSOPHY](https://img.shields.io/badge/◈_PHILOSOPHY-Security_Meets_Innovation-00e5ff?style=for-the-badge&labelColor=0a0a1a)
 &nbsp;
-<a href="https://facebook.com/ar.abhinavranjan/" target="_blank">
-  <img src="https://img.shields.io/badge/◈_FACEBOOK-ar.abhinavranjan-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a0a1a" />
-</a>
-&nbsp;
-<a href="https://github.com/ar-abhinavranjan" target="_blank">
-  <img src="https://img.shields.io/badge/◈_GITHUB-ar--abhinavranjan-ffffff?style=for-the-badge&logo=github&logoColor=0a0a1a&labelColor=6366f1" />
-</a>
+![GOAL](https://img.shields.io/badge/◈_GOAL-Digital_Sovereignty-8b5cf6?style=for-the-badge&labelColor=0a0a1a)
 
 </div>
 
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                     ◈  CONNECT SECTION                           -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<h2>⬡ &nbsp; ESTABLISH CONNECTION &nbsp; ⬡</h2>
 <br/>
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                        ◈ QUOTE SECTION                             -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<a href="https://abhinavranjan.qzz.io"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Headquarters-6366f1?style=for-the-badge&labelColor=0a0a1a" /></a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/ar-abhinavranjan/"><img src="https://img.shields.io/badge/LINKEDIN-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a1a" /></a>
+&nbsp;
+<a href="https://instagram.com/ar.abhinavranjan"><img src="https://img.shields.io/badge/INSTAGRAM-ar.abhinavranjan-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a1a" /></a>
+&nbsp;
+<a href="https://facebook.com/ar.abhinavranjan/"><img src="https://img.shields.io/badge/FACEBOOK-ar.abhinavranjan-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a0a1a" /></a>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                        ◈  FOOTER SIGNATURE                       -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   ❝  Every system has a vulnerability.                             │
-│       The most dangerous one is the assumption it doesn't.  ❞     │
-│                                                                     │
-│                                      — Security Doctrine ◈        │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   ❝  Every system has a vulnerability.                               │
+│       The most dangerous one is the assumption it doesn't.  ❞        │
+│                                                                      │
+│                                    — Security Doctrine  ◈           │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-</div>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=3000&color=8B5CF6&center=true&vCenter=true&width=700&lines=⬡+AR.+Abhinav+Ranjan+•+Luminary+Technicals+•+Muzaffarpur%2C+Bihar%2C+India+⬡)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                        ◈ PREMIUM FOOTER                            -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,40:6366f1,70:00e5ff,100:0a0a1a&height=130&section=footer&text=LUMINARY+TECHNICALS&fontSize=20&fontColor=ffffff&fontAlignY=40&desc=Infrastructure+•+Cybersecurity+•+Innovation&descAlignY=65&descSize=12&descColor=9ca3af&animation=fadeIn" width="100%" />
-
-<br/>
-
-<sub>
-  <img src="https://img.shields.io/badge/Crafted_with-Precision_%26_Purpose-6366f1?style=flat-square&labelColor=0a0a1a" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/© AR. Abhinav Ranjan-Luminary_Technicals-8b5cf6?style=flat-square&labelColor=0a0a1a" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Build_Status-ONLINE_⬡-00e5ff?style=flat-square&labelColor=0a0a1a" />
-</sub>
+<img src="https://img.shields.io/badge/Crafted_with-Precision_%26_Purpose-6366f1?style=flat-square&labelColor=0a0a1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/©_AR._Abhinav_Ranjan-Luminary_Technicals-8b5cf6?style=flat-square&labelColor=0a0a1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/Build_Status-ONLINE_⬡-00e5ff?style=flat-square&labelColor=0a0a1a" />
 
 <br/><br/>
-
-<sub><i>⬡ &nbsp; If my work resonates with your mission, let's architect something extraordinary together &nbsp; ⬡</i></sub>
+<sub><i>⬡ &nbsp; If my work resonates with your mission — let's architect something extraordinary together &nbsp; ⬡</i></sub>
 
 </div>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--          END OF README — AR. ABHINAV RANJAN — LUMINARY TECHNICALS  -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ██████████████████████████████████████████████████████████████████ -->
+<!--       END — AR. ABHINAV RANJAN — LUMINARY TECHNICALS              -->
+<!-- ██████████████████████████████████████████████████████████████████ -->
