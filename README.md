@@ -32,7 +32,7 @@
 <h2>⬡ &nbsp; IDENTITY.exe &nbsp; ⬡</h2>
 </div>
 
-```
+<pre>
   OPERATOR     :  AR. Abhinav Ranjan
   HANDLE       :  ar.abhinavranjan
   DESIGNATION  :  Founder & CEO — Luminary Technicals
@@ -42,7 +42,7 @@
   DIRECTIVE    :  Architecting the future of digital sovereignty
   DOMAIN       :  Cybersecurity · AI · Law · Infrastructure · Web
   NODE_STATUS  :  [ONLINE] Building in stealth mode
-```
+</pre>
 
 <br/>
 
@@ -114,7 +114,7 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
 <h2>⬡ &nbsp; SECURITY OPERATIONS CENTER &nbsp; ⬡</h2>
 </div>
 
-```
+<pre>
   [01] OFFENSIVE SECURITY   ->  Advanced Penetration Testing
   [02] REVERSE ENGINEERING  ->  Malware R&D · Binary Analysis
   [03] THREAT INTELLIGENCE  ->  Zero-Day Research · OSINT
@@ -127,7 +127,7 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
   [10] DEVSECOPS            ->  Security-First SDLC · Hardened CI/CD
 
   STATUS: [ONLINE]  |  FRAMEWORK: SecSDLC  |  MODE: PREDICTIVE
-```
+</pre>
 
 ---
 
@@ -213,26 +213,26 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
 
 **`> status --realtime`**
 
-```
+<pre>
   BUILDING     ->  Luminary Technicals      [ACTIVE]
   RESEARCHING  ->  Zero-Day & Threat Intel  [ONGOING]
   DEVELOPING   ->  AI-Sec Integration       [STEALTH]
   TEACHING     ->  Ethical Hacking          [LIVE]
   OPEN FOR     ->  Collabs & Projects       [OPEN]
-```
+</pre>
 
 </td>
 <td width="50%" align="center" valign="top">
 
 **`> skill --matrix`**
 
-```
+<pre>
   CYBERSECURITY      +++++++++.  92%
   INFRASTRUCTURE     ++++++++..  80%
   FULL-STACK DEV     +++++++++.  88%
   AI INTEGRATION     +++++++...  70%
   CYBER LAW          ++++++....  60%
-```
+</pre>
 
 </td>
 </tr>
@@ -246,7 +246,7 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
 <h2>⬡ &nbsp; VISION PROTOCOL &nbsp; ⬡</h2>
 <br/>
 
-```
+<pre>
   "The internet was built on trust. The future will be built on
    verified trust — cryptographically enforced, architecturally
    sound, and humanly designed.
@@ -258,7 +258,7 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
    we build a world where innovation and protection coexist."
 
                                   — AR. Abhinav Ranjan
-```
+</pre>
 
 <br/>
 
@@ -292,12 +292,12 @@ I don't just build systems — I build systems that **endure**, **defend**, and 
 
 <div align="center">
 
-```
+<pre>
   "Every system has a vulnerability.
    The most dangerous one is the assumption it doesn't."
 
                              — Security Doctrine
-```
+</pre>
 
 <br/>
 
